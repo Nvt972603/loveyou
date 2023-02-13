@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
+  text1: "Hí Hí, chào cục cưng!",
+  text2: "Anh có điều này muốn hỏi em nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text4: "Nếu Em không trả lời mà thoát ra tức là muốn làm vợ Anh rùi đó nha :v",
+  text5: "Không, Anh mơ à???",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text7: "lí do Em thích Anh là gì thế :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text9: "Vì Anh đáng êu vãi chưởng :3",
+  text10: "Anh biết mà ^^ Yêu Em 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Đừng ngạiii :v Còn đợi gì nữa mà Không inbox cho Anh đi nàooo",
+  text12: "Dạ... <3",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://zalo.me/0365442974";
           },
         });
       }
